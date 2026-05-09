@@ -1,0 +1,2 @@
+[console_scripts]
+hello_pub = my_first_pkg.publisher:main
